@@ -1,4 +1,4 @@
-umport streamlit as st
+import streamlit as st
 
 
 def BMI(w, h):
